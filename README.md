@@ -70,8 +70,8 @@ A lightweight user management web app built with **Node.js**, **MongoDB**, and *
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/user-management-app.git
-cd user-management-app
+git clone https://github.com/Jaroslaw-Baumgart/mongoose_acl
+cd mongoose_acl
 ```
 
 2. **Install dependencies:**
